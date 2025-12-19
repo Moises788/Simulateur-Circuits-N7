@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1765322425 source:c:\users\joule\downloads\be_moises_julie_v6\circuit.cpp
+	"circuit.h"
+	"source.h"
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<vector>
+
+1765323262 c:\users\joule\downloads\be_moises_julie_v6\circuit.h
+	<cmath>
+	"source.h"
+
+1765323269 c:\users\joule\downloads\be_moises_julie_v6\source.h
+	<iostream>
+	<cmath>
+
+1765321986 source:c:\users\joule\downloads\be_moises_julie_v6\main.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"source.h"
+	"circuit.h"
+
+1765322570 source:c:\users\joule\downloads\be_moises_julie_v6\source.cpp
+	"source.h"
+	<cmath>
+	<iostream>
+
+1765412077 source:c:\users\joule\desktop\be_moises_julie_v8\circuit.cpp
+	"circuit.h"
+	"source.h"
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<vector>
+
+1765419058 c:\users\joule\desktop\be_moises_julie_v8\circuit.h
+	<cmath>
+	"source.h"
+
+1765420079 c:\users\joule\desktop\be_moises_julie_v8\source.h
+	<iostream>
+	<cmath>
+
+1765420009 source:c:\users\joule\desktop\be_moises_julie_v8\main.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"source.h"
+	"circuit.h"
+
+1765416352 source:c:\users\joule\desktop\be_moises_julie_v8\source.cpp
+	"source.h"
+	<cmath>
+	<iostream>
+
+1765412077 source:c:\users\joule\desktop\test sources\be_moises_julie_test_circuits\circuit.cpp
+	"circuit.h"
+	"source.h"
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<vector>
+
+1765419058 c:\users\joule\desktop\test sources\be_moises_julie_test_circuits\circuit.h
+	<cmath>
+	"source.h"
+
+1765471947 c:\users\joule\desktop\test sources\be_moises_julie_test_circuits\source.h
+	<iostream>
+	<cmath>
+
+1765472795 source:c:\users\joule\desktop\test sources\be_moises_julie_test_circuits\source.cpp
+	"source.h"
+	<cmath>
+	<iostream>
+
+1765472465 source:c:\users\joule\desktop\test sources\be_moises_julie_test_circuits\main.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"source.h"
+	"circuit.h"
+
+1765412077 source:c:\users\joule\desktop\test circuits\be_moises_julie_test_sources\circuit.cpp
+	"circuit.h"
+	"source.h"
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<vector>
+
+1765419058 c:\users\joule\desktop\test circuits\be_moises_julie_test_sources\circuit.h
+	<cmath>
+	"source.h"
+
+1765471947 c:\users\joule\desktop\test circuits\be_moises_julie_test_sources\source.h
+	<iostream>
+	<cmath>
+
+1765472795 source:c:\users\joule\desktop\test circuits\be_moises_julie_test_sources\source.cpp
+	"source.h"
+	<cmath>
+	<iostream>
+
+1765475055 source:c:\users\joule\desktop\test circuits\be_moises_julie_v9\circuit.cpp
+	"circuit.h"
+	"source.h"
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<vector>
+
+1765475041 c:\users\joule\desktop\test circuits\be_moises_julie_v9\circuit.h
+	<cmath>
+	"source.h"
+
+1765474693 c:\users\joule\desktop\test circuits\be_moises_julie_v9\source.h
+	<iostream>
+	<cmath>
+
+1765474289 source:c:\users\joule\desktop\test circuits\be_moises_julie_v9\main.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"source.h"
+	"circuit.h"
+
+1765474738 source:c:\users\joule\desktop\test circuits\be_moises_julie_v9\source.cpp
+	"source.h"
+	<iostream>
+	<cmath>
+
